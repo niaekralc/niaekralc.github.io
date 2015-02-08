@@ -3,11 +3,15 @@
 - title: About
   url: /about/
 
-- title: Sample Posts
+- title: Some Stuff
   url: /posts/
 
-- title: Theme Setup
+- title: How to setup theme
   url: /theme-setup/
 
 - title: Made Mistakes
   url: http://mademistakes.com
+
+- title: Another link
+  url: http://google.com
+
